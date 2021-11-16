@@ -1,0 +1,28 @@
+body{
+    font-family: serif;
+    background-color: rgb(168, 119, 11);
+    text-align: center;
+    }
+    .header_div{
+    background-color: white;
+    color: tomato;
+    }
+    .header_div p{
+    font-family: cursive;
+    color:sandybrown;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+    }
+    .copyright-footer{
+    position: fixed;
+    color: red;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: slateblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: thistle;
+    }
+  
